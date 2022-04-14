@@ -10,6 +10,7 @@ public class Endereco {
 
     public Endereco() {
         this.cep = "";
+        this.estado = "";
     }
 
     public String getRua() {
